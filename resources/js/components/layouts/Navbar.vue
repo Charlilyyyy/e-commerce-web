@@ -13,7 +13,7 @@
                   <!-- <button class="btn btn-primary">jk</button> -->
                   <div class="menu">
                      <ul >
-                        <li><a class="fw-bold btn btn-warning" style="color:black" href="/">Login</a></li>
+                        <li><a class="fw-bold btn btn-warning" style="color:black" href="/login">Login</a></li>
                      </ul>
                   </div>
                </nav>
